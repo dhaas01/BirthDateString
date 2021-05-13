@@ -1,0 +1,10 @@
+E:\Tutorials\Chapter 3\Birth Date String (Tutorial 3-1)\Birth Date String (Tutorial 3-1)\Birth Date String (Tutorial 3-1)\Birth Date String (Tutorial 3-1)\bin\Debug\Birth Date String (Tutorial 3-1).exe.config
+E:\Tutorials\Chapter 3\Birth Date String (Tutorial 3-1)\Birth Date String (Tutorial 3-1)\Birth Date String (Tutorial 3-1)\Birth Date String (Tutorial 3-1)\bin\Debug\Birth Date String (Tutorial 3-1).exe
+E:\Tutorials\Chapter 3\Birth Date String (Tutorial 3-1)\Birth Date String (Tutorial 3-1)\Birth Date String (Tutorial 3-1)\Birth Date String (Tutorial 3-1)\bin\Debug\Birth Date String (Tutorial 3-1).pdb
+E:\Tutorials\Chapter 3\Birth Date String (Tutorial 3-1)\Birth Date String (Tutorial 3-1)\Birth Date String (Tutorial 3-1)\Birth Date String (Tutorial 3-1)\obj\Debug\Birth Date String (Tutorial 3-1).csprojAssemblyReference.cache
+E:\Tutorials\Chapter 3\Birth Date String (Tutorial 3-1)\Birth Date String (Tutorial 3-1)\Birth Date String (Tutorial 3-1)\Birth Date String (Tutorial 3-1)\obj\Debug\Birth_Date_String__Tutorial_3_1_.Form1.resources
+E:\Tutorials\Chapter 3\Birth Date String (Tutorial 3-1)\Birth Date String (Tutorial 3-1)\Birth Date String (Tutorial 3-1)\Birth Date String (Tutorial 3-1)\obj\Debug\Birth_Date_String__Tutorial_3_1_.Properties.Resources.resources
+E:\Tutorials\Chapter 3\Birth Date String (Tutorial 3-1)\Birth Date String (Tutorial 3-1)\Birth Date String (Tutorial 3-1)\Birth Date String (Tutorial 3-1)\obj\Debug\Birth Date String (Tutorial 3-1).csproj.GenerateResource.cache
+E:\Tutorials\Chapter 3\Birth Date String (Tutorial 3-1)\Birth Date String (Tutorial 3-1)\Birth Date String (Tutorial 3-1)\Birth Date String (Tutorial 3-1)\obj\Debug\Birth Date String (Tutorial 3-1).csproj.CoreCompileInputs.cache
+E:\Tutorials\Chapter 3\Birth Date String (Tutorial 3-1)\Birth Date String (Tutorial 3-1)\Birth Date String (Tutorial 3-1)\Birth Date String (Tutorial 3-1)\obj\Debug\Birth Date String (Tutorial 3-1).exe
+E:\Tutorials\Chapter 3\Birth Date String (Tutorial 3-1)\Birth Date String (Tutorial 3-1)\Birth Date String (Tutorial 3-1)\Birth Date String (Tutorial 3-1)\obj\Debug\Birth Date String (Tutorial 3-1).pdb
